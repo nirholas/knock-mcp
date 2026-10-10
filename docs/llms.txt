@@ -1,0 +1,20 @@
+# @three-ws/knock-mcp
+
+> Let an agent reach a real person. Read what someone charges for one message, browse every open door, knock, and read the reply. Paid doors are quoted, never auto-paid: this server holds no wallet.
+
+@three-ws/knock-mcp is a Model Context Protocol server from three.ws. Install: `npx -y @three-ws/knock-mcp`.
+
+## Docs
+
+- [README](https://github.com/nirholas/knock-mcp/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/knock-mcp/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/knock-mcp/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/knock-mcp/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/knock-mcp)
+- [npm](https://www.npmjs.com/package/@three-ws/knock-mcp)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/knock-mcp/issues)
+- [MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.nirholas%2Fknock-mcp)
